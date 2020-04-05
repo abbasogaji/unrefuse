@@ -1,0 +1,7 @@
+node_modules
+docker-compose.yml
+app-config.js
+app-config.json
+config.js
+.env
+Dockerfile
