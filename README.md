@@ -13,7 +13,7 @@
 
 * MongoDB
 * Or Any NOSQL Database 
-* or BigChainDB (Blockchain as a database)
+* or BigchainDB or Hyperledger fabric
 
 ## Messaging system for IoT devices
 
